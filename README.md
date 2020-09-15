@@ -5,7 +5,7 @@ An application that compares a 3D Tiles content imported as an I3S service vs a 
 
 To compare using this app, the app expects a webscene with bookmarks named using the following convention:
 [anyName]*_I3SNative*  (eg. `view.1._I3SNative`) - the name of a bookmark showcasing the native i3s layer.
-[anyName]*_3DTiles2I3S* - (eg. `view.1.3DTiles2I3S`) - the name of the corresponding bookmark showcasing the imported 3d tiles layer.
+[anyName]*_3DTiles2I3S* - (eg. `view.1._3DTiles2I3S`) - the name of the corresponding bookmark showcasing the imported 3d tiles layer.
 
 [Live Version](https://tamrat-b.github.io/i3scompare)
 
